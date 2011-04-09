@@ -1,4 +1,4 @@
 	</div>
-<div id="pied">Design By Amnael</div>
+<div id="pied"><img src='IMAGE/pied.png'></div>
    </body>
 </html>

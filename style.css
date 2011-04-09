@@ -46,10 +46,7 @@ body
 #pied
 {
    padding: 5px;
-   clear: both;
-
    text-align: center;
-   background-image: url("images/motif.png");
-   background-repeat: repeat-x;
+
  
 }
