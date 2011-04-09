@@ -1,0 +1,53 @@
+body
+{
+background-color: #BBD3C7;
+}
+
+#en_tete
+{
+  margin-left: auto; 
+  margin-right: auto; 
+witdh: 200px;
+text-align: center;
+   background-image: url("images/banniere.png");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+
+}
+
+#menu
+{
+   float: left;
+   width: 200px;
+   color: #B3B3B3;
+   background-color: #626262; /* Une couleur de fond pour le corps */
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
+   
+   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#corps
+{
+   margin-left: 220px; /* Une marge à gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   
+   color: #B3B3B3;
+   background-color: #626262; /* Une couleur de fond pour le corps */
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
+   
+   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#pied
+{
+   padding: 5px;
+   clear: both;
+
+   text-align: center;
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x;
+ 
+}
