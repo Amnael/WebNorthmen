@@ -20,11 +20,6 @@ text-align: center;
    float: left;
    width: 200px;
    color: #B3B3B3;
-   background-color: #626262; /* Une couleur de fond pour le corps */
-   background-image: url("images/motif.png");
-   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
-   
-   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
 #corps
@@ -38,7 +33,7 @@ text-align: center;
    background-image: url("images/motif.png");
    background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
    
-   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+   border: 2px solid blue; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
 #pied
