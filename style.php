@@ -6,6 +6,6 @@
        <link rel="stylesheet" media="screen" type="text/css" title="Design" href="style.css" />
    </head>
    <body>
-<div id="en_tete">entete</div>
+<div id="en_tete"><img src="IMAGE/bann.png"></img></div>
 <div id="menu">menu</div>
 <div id="corps">
