@@ -31,22 +31,18 @@ body
   margin-left: auto; 
   margin-right: auto;
   text-align: center;
-   width: 906px;
-   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   width: 891px;
    padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
    
-   color: black;
-   background-color: grey; /* Une couleur de fond pour le corps */
-   background-image: url("images/motif.png");
-   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
+   color: white;
+   background-color: #0b0b0b; /* Une couleur de fond pour le corps */
    
-   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+   border-top: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+   border-left: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+   border-right: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
 #pied
 {
-   padding: 5px;
-   text-align: center;
-
- 
+  text-align: center;
 }
