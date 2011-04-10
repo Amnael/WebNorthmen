@@ -8,4 +8,7 @@
    <body>
 <div id="en_tete"><img src="IMAGE/bann.png"></img></div>
 <div id="menu"><?php include("menu.php"); ?></div>
+<div id="global">
+<div id="avancee"><?php include("avancee.php"); ?></div>
+<div id="recrutement"><?php include("recrutement.php"); ?></div>
 <div id="corps">

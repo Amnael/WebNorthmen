@@ -13,7 +13,32 @@ body
   background-image: url("images/banniere.png");
   background-repeat: no-repeat;
   margin-bottom: 10px;
+}
 
+#global
+{
+margin-left: auto;
+margin-right: auto;
+width:1350px;
+}
+
+#avancee
+{
+   float:left;
+   position:relative;
+   width: 200px;
+   color: white;
+   background-color: #0b0b0b; /* Une couleur de fond pour le corps */
+   border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#recrutement
+{
+   float:right;
+   position:relative;
+   width: 200px;
+   background-color: #0b0b0b; /* Une couleur de fond pour le corps */
+   border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
 #centrer_menu		{margin: 0 auto;padding: 0;text-align:center;width:550px;	background:url(IMAGE/fond_menu.jpg); height:30px; margin-bottom: 10px;}
@@ -48,6 +73,23 @@ html>body #menu li ul ul {border-left : 1px solid transparent;}
    border-top: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
    border-left: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
    border-right: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#avancee
+{
+width: 200px;
+   position: relative;
+   color: white;
+   background-color: #0b0b0b; /* Une couleur de fond pour le corps */
+   border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#recrutement
+{
+width: 200px;
+   color: white;
+   background-color: #0b0b0b; /* Une couleur de fond pour le corps */
+   border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
 #pied
