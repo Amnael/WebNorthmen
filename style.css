@@ -43,6 +43,7 @@ width:1350px;
    text-align: center;
    background-color: #0b0b0b; /* Une couleur de fond pour le corps */
    border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+	min-height: 598px;
 }
 
 #centrer_menu		{margin: 0 auto;padding: 0;text-align:center;width:550px;	background:url(IMAGE/fond_menu.jpg); height:30px; margin-bottom: 10px;}
@@ -77,7 +78,7 @@ html>body #menu li ul ul {border-left : 1px solid transparent;}
    border-top: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
    border-left: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
    border-right: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
-	min-height: 593px;
+	min-height: 605px;
 font-size : 12px;
 }
 
