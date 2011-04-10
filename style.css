@@ -78,6 +78,13 @@ html>body #menu li ul ul {border-left : 1px solid transparent;}
    border-left: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
    border-right: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 	min-height: 593px;
+font-size : 12px;
+}
+
+#news
+{
+border-top: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+font-size : 12px;
 }
 
 #avancee
