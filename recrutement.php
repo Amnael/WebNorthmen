@@ -1,1 +1,10 @@
-Test2
+<img src="IMAGE/classe/dk.png" alt="DK" title="Sang" /><img src="IMAGE/open.png" alt="open"/><p>
+<img src="IMAGE/classe/drood.png" alt="Drood" title="Equi" /><img src="IMAGE/open.png" alt="open"/><p>
+<img src="IMAGE/classe/demo.png" alt="Demo" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
+<img src="IMAGE/classe/hunt.png" alt="Hunt" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
+<img src="IMAGE/classe/mage.png" alt="Mage" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
+<img src="IMAGE/classe/pala.png" alt="Pala" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
+<img src="IMAGE/classe/priest.png" alt="Priest" title="Disci/Sacré" /><img src="IMAGE/open.png" alt="open"/><p>
+<img src="IMAGE/classe/rogue.png" alt="Rogue" title="Assa/Comb" /><img src="IMAGE/open.png" alt="open"/><p>
+<img src="IMAGE/classe/sham.png" alt="Sham" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
+<img src="IMAGE/classe/war.png" alt="War" title="Fermé" /><img src="IMAGE/close.png" alt="close"/><p>
