@@ -106,9 +106,9 @@ width: 200px;
    border: 2px solid #1d1d1d; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
+
 #pied
 {
-  text-align: center;
-position: relative;
+text-align: center;
 clear: both;
 }
